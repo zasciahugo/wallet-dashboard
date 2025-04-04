@@ -75,7 +75,3 @@ npm run build
   - Includes skeleton loader while fetching data
   - Sorts by column with ascending/descending toggle
   - Status badges for success/failure
-
-- **`WalletCard.vue`**
-  - Displays current wallet balance and currency
-  - Includes Deposit and Withdraw action buttons that open modals
